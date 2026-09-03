@@ -1,0 +1,21 @@
+Implementation of Stack using Array
+1.Push 2.Pop 3.Display 4.Exit
+Enter your choice:
+1
+Enter the element
+10
+1.Push 2.Pop 3.Display 4.Exit
+Enter your choice:
+1
+Enter the element
+15
+1.Push 2.Pop 3.Display 4.Exit
+Enter your choice:
+1
+Enter the element
+15
+1.Push 2.Pop 3.Display 4.Exit
+Enter your choice:
+1
+Enter the element
+25
