@@ -1,0 +1,19 @@
+Main Thread and Generated Number is 83
+New Thread 83 is ODD and Cube of 83 is: 571787
+-------------------------------
+
+Main Thread and Generated Number is 51
+New Thread 51 is ODD and Cube of 51 is: 132651
+-------------------------------
+
+Main Thread and Generated Number is 65
+New Thread 65 is ODD and Cube of 65 is: 274625
+-------------------------------
+
+Main Thread and Generated Number is 42
+New Thread 42 is EVEN and Square of 42 is: 1764
+-------------------------------
+
+Main Thread and Generated Number is 84
+New Thread 84 is EVEN and Square of 84 is: 7056
+-------------------------------
